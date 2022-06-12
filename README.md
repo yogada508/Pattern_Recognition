@@ -3,3 +3,4 @@
 * HW2: Linear Discriminant Analysis
 * HW3: Decision Tree, AdaBoost and Random Forest
 * HW4: Support Vector Machine
+* HW5: Deep neural network
